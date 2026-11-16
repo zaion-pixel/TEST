@@ -1,0 +1,14 @@
+C:\Users\PC\OneDrive\Documents\3rd_Year (All subjects)\Event_Driven_Programming\Prelim\FrmBasicCalculator\FrmBasicCalculator\bin\Debug\FrmBasicCalculator.exe.config
+C:\Users\PC\OneDrive\Documents\3rd_Year (All subjects)\Event_Driven_Programming\Prelim\FrmBasicCalculator\FrmBasicCalculator\bin\Debug\FrmBasicCalculator.exe
+C:\Users\PC\OneDrive\Documents\3rd_Year (All subjects)\Event_Driven_Programming\Prelim\FrmBasicCalculator\FrmBasicCalculator\bin\Debug\FrmBasicCalculator.pdb
+C:\Users\PC\OneDrive\Documents\3rd_Year (All subjects)\Event_Driven_Programming\Prelim\FrmBasicCalculator\FrmBasicCalculator\bin\Debug\CalculatorPrivateAssembly.dll
+C:\Users\PC\OneDrive\Documents\3rd_Year (All subjects)\Event_Driven_Programming\Prelim\FrmBasicCalculator\FrmBasicCalculator\bin\Debug\CalculatorPrivateAssembly.pdb
+C:\Users\PC\OneDrive\Documents\3rd_Year (All subjects)\Event_Driven_Programming\Prelim\FrmBasicCalculator\FrmBasicCalculator\obj\Debug\FrmBasicCalculator.csproj.AssemblyReference.cache
+C:\Users\PC\OneDrive\Documents\3rd_Year (All subjects)\Event_Driven_Programming\Prelim\FrmBasicCalculator\FrmBasicCalculator\obj\Debug\FrmBasicCalculator.Form1.resources
+C:\Users\PC\OneDrive\Documents\3rd_Year (All subjects)\Event_Driven_Programming\Prelim\FrmBasicCalculator\FrmBasicCalculator\obj\Debug\FrmBasicCalculator.Properties.Resources.resources
+C:\Users\PC\OneDrive\Documents\3rd_Year (All subjects)\Event_Driven_Programming\Prelim\FrmBasicCalculator\FrmBasicCalculator\obj\Debug\FrmBasicCalculator.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Documents\3rd_Year (All subjects)\Event_Driven_Programming\Prelim\FrmBasicCalculator\FrmBasicCalculator\obj\Debug\FrmBasicCalculator.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Documents\3rd_Year (All subjects)\Event_Driven_Programming\Prelim\FrmBasicCalculator\FrmBasicCalculator\obj\Debug\FrmBasic.64EFA2BD.Up2Date
+C:\Users\PC\OneDrive\Documents\3rd_Year (All subjects)\Event_Driven_Programming\Prelim\FrmBasicCalculator\FrmBasicCalculator\obj\Debug\FrmBasicCalculator.exe
+C:\Users\PC\OneDrive\Documents\3rd_Year (All subjects)\Event_Driven_Programming\Prelim\FrmBasicCalculator\FrmBasicCalculator\obj\Debug\FrmBasicCalculator.pdb
+C:\Users\PC\OneDrive\Documents\3rd_Year (All subjects)\Event_Driven_Programming\Prelim\FrmBasicCalculator\FrmBasicCalculator\obj\Debug\FrmBasicCalculator.exe.config
